@@ -10,7 +10,7 @@ My main tech stack includes **Lobster Data, REST/SOAP APIs, EDI (X12), Python, S
 
 I've got a bunch of pinned projects, but my favorite is the [Greek Metal Concert Tracker](https://github.com/ev-kai/Metal_Script), [Click me!](https://checkmate-m-concert.netlify.app/)
 
-I solve problems empirically—I test by building and learn by doing.
+I test by building and learn by doing.
 
 **What I'm Up To:**
 
