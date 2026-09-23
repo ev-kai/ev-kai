@@ -8,7 +8,7 @@ If a data flow needs bridging or an API needs orchestrating, chances are I'll bu
 
 My main tech stack includes **Lobster Data, REST/SOAP APIs, EDI (X12), Python, SQL,** and **SAP**. My favorite tools are **Postman, VScode,** and **Microsoft SQL Server**.
 
-I've got a bunch of pinned projects, but my favorite is the [Greek Metal Concert Tracker](https://github.com/ev-kai/Metal_Script), [Click me!](https://checkmate-m-concert.netlify.app/)
+I've got a few  pinned projects, but my favorite is the [Greek Metal Concert Tracker](https://github.com/ev-kai/Metal_Script), [Click me!](https://checkmate-m-concert.netlify.app/)
 
 I test by building and learn by doing.
 
